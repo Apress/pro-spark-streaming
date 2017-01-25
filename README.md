@@ -1,6 +1,6 @@
 #Apress Source Code
 
-This repository accompanies [*Pro Spark Streaming*](http://www.apress.com/9781484214800) by Nabi, Zubair (Apress, 2016).
+This repository accompanies [*Pro Spark Streaming*](http://www.apress.com/9781484214800) by Zubair Nabi (Apress, 2016).
 
 ![Cover image](9781484214800.jpg)
 
